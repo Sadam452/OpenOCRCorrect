@@ -1,3 +1,4 @@
+# DISCLAIMER:- I HAVE ADDED FEW FEATURES TO THIS SOFTWARE & UPLOADED IT HERE FOR ASSIGNMENT PURPOSE ONLY.
 # OpenOCRCorrect
 A framework for assisting human while correcting the OCR errors in documents, mostly dedicated to Indian Languages.
 Tested on Sanskrit, Hindi, Marathi and English. For more details on installation and other stuff, kindly visit 
